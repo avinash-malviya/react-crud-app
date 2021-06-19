@@ -1,0 +1,56 @@
+.btn1 {
+  width: 100px;
+  border-radius: 999px;
+  padding: 0;
+}
+
+.delete-button {
+  width: 100px !important;
+  border-radius: 999px !important;
+  padding: 0 !important;
+  color: white !important;
+
+}
+
+.thead {
+  background-color: #4306f9;
+  color: aliceblue;
+}
+
+td {
+  align-items: center;
+}
+
+.add {
+  color: #4306f9;
+  text-decoration: underline;
+  text-decoration-color: #4306f9;
+  margin-left: 20px;
+  margin-top: 20px;
+  text-decoration-thickness: 4px;
+}
+
+.add:hover {
+  color: #4306f9 !important;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+}
+
+.middle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input1 {
+  width: 150px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  color: gray;
+  border-color: gray;
+  border: 1px solid gray;
+}
+.input1:focus {
+  outline: none;
+  box-shadow: none;
+}

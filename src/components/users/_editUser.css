@@ -1,0 +1,71 @@
+.div1 {
+  display: flex;
+}
+
+.div2 {
+  display: flex;
+}
+
+input {
+  margin-right: 12px;
+  border: 2px solid gainsboro;
+  border-radius: 4px;
+  width: 200px;
+}
+
+.pin::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+label {
+  color: #4306f9;
+}
+
+input:focus {
+  outline: none;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.update {
+  width: 100px;
+  border-radius: 999px;
+  padding: 0;
+  background-color: #4306f9;
+  color: white;
+  margin: auto;
+}
+.update:hover {
+  width: 100px;
+  border-radius: 999px;
+  padding: 0;
+  background-color: #4306f9;
+  color: white;
+}
+
+.cancel {
+  width: 100px;
+  border-radius: 999px;
+  padding: 0;
+  background-color: gray;
+  margin: auto;
+}
+
+.cancel:hover {
+  width: 100px;
+  border-radius: 999px;
+  padding: 0;
+  background-color: gray;
+}
+
+.navlink {
+  color: white;
+}
+
+.navlink:hover {
+  color: white !important;
+  text-decoration: none;
+}
